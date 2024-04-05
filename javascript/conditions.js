@@ -8,3 +8,7 @@ else if(mark >PassMark && mark <70)
 {console.log('you passed with exemption')}
 else if (mark)
     
+ function myFun(){
+"hey there"}
+
+console.log(myFun)
