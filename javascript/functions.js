@@ -18,3 +18,15 @@ function func(a){
     a= 12
 
     console.log(a)}
+
+
+let fruits = ["orange","apple","grapes","pear","peach"]
+ 
+
+function getrandomnumber(){
+    return Math.floor(Math.random()*fruits.length)
+}
+
+ 
+
+console.log(getrandomnumber())

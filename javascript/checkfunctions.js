@@ -24,3 +24,9 @@ function showmovie(){
     console.log('playing a movie')
   }
     }
+numbers= [20,12,39,3,29,20,3,5,29,49,20,]
+ for (i=0;i<6;i++)
+
+ 
+
+console.log(numbers)
